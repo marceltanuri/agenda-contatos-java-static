@@ -133,7 +133,6 @@ class TelaEditarContato{
     static void processar(Scanner sc){
         out.println("Qual o ID do contato a ser editado?");
         int id = Integer.parseInt(sc.nextLine());
-        AgendaContato.Campos campos[] = new AgendaContato.Campos[AgendaContato.Campos.values().length];
         String valores[] = new String[AgendaContato.Campos.values().length];
         while(true){
             out.println("Qual o campo deseja editar?");
