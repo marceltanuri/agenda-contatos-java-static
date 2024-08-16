@@ -46,8 +46,8 @@ class Aplicacao {
 
 class MenuPrincipal {
 
-    final static String TECLA_PARA_SAIR = "S";
-    final static String TECLA_PARA_CONFIRMA_SAIR = "S";
+    static String TECLA_PARA_SAIR = "S";
+    static String TECLA_PARA_CONFIRMA_SAIR = "S";
 
     static void exibirMenu(){
         out.println("Escolha uma opção:");
@@ -80,7 +80,7 @@ class MenuPrincipal {
 
 class MenuEdicao{
 
-    final static String TECLA_PARA_SALVAR = "S";
+    static String TECLA_PARA_SALVAR = "S";
 
     static void exibirMenu(){
         out.println("Escolha uma opção:");
