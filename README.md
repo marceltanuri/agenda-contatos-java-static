@@ -13,7 +13,7 @@ Serve para fins didáticos para introdução à lógica de programação em Java
   * Switch
   * While
   * For
-  * break, continue, return
+  * break (labeled e unlabeled), continue, return
 * Entradas e Saídas
   * Scanner
   * System.out.print
