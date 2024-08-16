@@ -168,8 +168,6 @@ class AgendaContato {
 
     static void remover(int indice){
         contatos[indice] = null;
-        contatos[indice] = null;
-        contatos[indice] = null;
         out.println("Contato removido com sucesso!");
     }
 
