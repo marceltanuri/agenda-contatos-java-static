@@ -19,4 +19,11 @@ Serve para fins didáticos para introdução à lógica de programação em Java
   * System.out.print
 * Separação de responsabilidades de classes e métodos
 * Algorítmos de busca
-  
+
+## Novos requisitos
+
+* Adicionar um campo telefone adicional
+* Adicional um campo endereço residencial
+* Deve permitir buscar por Nome comçeando em. Por exemplo "Al", deve listar Alex, Alejandra. Mas não deve listar Morales, Balek, Hawale.
+* Deve permitir favoritar contatos
+* Deve permitir listar apenas os contatos favoritos
